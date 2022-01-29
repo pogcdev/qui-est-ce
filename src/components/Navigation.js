@@ -4,17 +4,17 @@ import { NavLink } from "react-router-dom";
 const Navigation = () => {
   return (
     <nav className="navigation">
-        <NavLink to="/difficulty">
+        <NavLink to="/qui-est-ce">
+          <button>Jouer</button>
+        </NavLink>
+        <NavLink to="/qui-est-ce/difficulty">
           <button>Difficulté</button>
         </NavLink>
-        <NavLink to="/multi">
+        <NavLink to="/qui-est-ce/multi">
           <button>Multijoueur</button>
         </NavLink>
-        <NavLink to="/rules">
+        <NavLink to="/qui-est-ce/rules">
           <button>Règles</button>
-        </NavLink>
-        <NavLink to="*">
-          <button>Jouer</button>
         </NavLink>
     </nav>
   );
