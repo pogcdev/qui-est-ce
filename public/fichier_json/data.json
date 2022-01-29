@@ -5,7 +5,7 @@
     "colonne": "8",
     "possibilites": {
       "0": {
-        "fichier": "./fichier_json/personnages/1.png",
+        "fichier": "https://github.com/pogcdev/qui-est-ce/blob/master/public/fichier_json/personnages/1.png",
         "prenom": "Samuel",
         "genre": "homme",
         "cheveux": "blanc",
