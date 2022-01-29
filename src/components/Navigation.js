@@ -4,9 +4,6 @@ import { NavLink } from "react-router-dom";
 const Navigation = () => {
   return (
     <nav className="navigation">
-        <NavLink to="/qui-est-ce">
-          <button>Jouer</button>
-        </NavLink>
         <NavLink to="/difficulty">
           <button>Difficulté</button>
         </NavLink>
@@ -15,6 +12,9 @@ const Navigation = () => {
         </NavLink>
         <NavLink to="/rules">
           <button>Règles</button>
+        </NavLink>
+        <NavLink to="*">
+          <button>Jouer</button>
         </NavLink>
     </nav>
   );
