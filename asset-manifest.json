@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/qui-est-ce/static/css/main.13cc41ec.css",
+    "main.js": "/qui-est-ce/static/js/main.b4f0d440.js",
+    "static/media/main.jpg": "/qui-est-ce/static/media/main.c22b10b39f929aac0c7a.jpg",
+    "static/media/JosefinSans-Medium.ttf": "/qui-est-ce/static/media/JosefinSans-Medium.45a5738c27c1bbbecc0c.ttf",
+    "index.html": "/qui-est-ce/index.html",
+    "main.13cc41ec.css.map": "/qui-est-ce/static/css/main.13cc41ec.css.map",
+    "main.b4f0d440.js.map": "/qui-est-ce/static/js/main.b4f0d440.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13cc41ec.css",
+    "static/js/main.b4f0d440.js"
+  ]
+}
