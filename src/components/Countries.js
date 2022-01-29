@@ -7,7 +7,7 @@ const Countries = () => {
 
   useEffect(() => {
     axios
-      .get("../fichier_json/data.json")
+      .get("https://api.jsonbin.io/b/61f5c50d1960493ad184d203")
       .then((res) => setData(res.data));
   }, []);
 
