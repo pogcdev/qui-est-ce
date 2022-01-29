@@ -1,0 +1,29 @@
+.navigation {
+
+    display: flex;
+    justify-content: space-around;
+    width: 60%;
+    margin: 30px auto;
+
+    button {
+      padding: 20px 150px;
+      margin-right: 10px;
+      border: none;
+      outline: none;
+      cursor: pointer;
+      border-radius: 5px;
+      font-size: 2rem;
+      color: white;
+      background-color: rgba(255, 84, 68, 0.904);
+      transition: 2s;
+
+      &:hover {
+        background-color:rgba(231, 54, 38, 0.904);
+        transform: scale(1.1);
+      }
+    }
+    
+    @media screen and (max-width: 1730px) {
+      flex-wrap: wrap;
+    }
+}
