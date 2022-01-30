@@ -7,8 +7,8 @@ const Countries = () => {
 
   useEffect(() => {
     axios
-      .get("../fichier_json/data.json")
-      .then((res) => setData(res.data));
+      .get("fichier_json/data.json")
+      .then((res) => setData(res.data[0].possibilites));
   }, []);
 
   // fetch("../fichier_json/data.json")
@@ -18,9 +18,9 @@ const Countries = () => {
   return (
     <div className="countries">
       <div>
-        {data.map((possibilites) => (
-            // console.log(possibilites.possibilites)
-            <Card possibilites={possibilites} key={possibilites.possibilites}/>
+        {data.map((personnage) => (
+          // console.log(personnages)
+          <Card key={personnage.prenom} personnage={personnage} />
         ))}
       </div>
     </div>
