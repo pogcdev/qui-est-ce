@@ -11,10 +11,6 @@ const Characters = () => {
       .then((res) => setData(res.data[0].possibilites));
   }, []);
 
-  // fetch("../fichier_json/data.json")
-  //   .then(resp => resp.json())
-  //   .then(data => console.log(data))
-
   return (
     <div className="characters">
       <div>
