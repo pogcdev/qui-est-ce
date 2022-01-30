@@ -3,16 +3,16 @@
     "images": "personnages/",
     "ligne": "3",
     "colonne": "8",
-    "possibilites": {
-      "0": {
-        "fichier": "https://github.com/pogcdev/qui-est-ce/blob/master/public/fichier_json/personnages/1.png",
+    "possibilites": [
+       {
+        "fichier": "./fichier_json/personnages/1.png",
         "prenom": "Samuel",
         "genre": "homme",
         "cheveux": "blanc",
         "lunettes": "oui",
         "chauve": "oui"
       },
-      "1": {
+    {
         "fichier": "./fichier_json/personnages/2.png",
         "prenom": "Léon",
         "genre": "homme",
@@ -20,7 +20,7 @@
         "lunettes": "oui",
         "chauve": "non"
       },
-      "2": {
+    {
         "fichier": "./fichier_json/personnages/3.png",
         "prenom": "Simon",
         "genre": "homme",
@@ -28,7 +28,7 @@
         "lunettes": "oui",
         "chauve": "non"
       },
-      "3": {
+    {
         "fichier": "./fichier_json/personnages/4.png",
         "prenom": "Simon",
         "genre": "homme",
@@ -36,7 +36,7 @@
         "lunettes": "oui",
         "chauve": "non"
       },
-      "4": {
+    {
         "fichier": "./fichier_json/personnages/5.png",
         "prenom": "Samuel",
         "genre": "homme",
@@ -44,7 +44,7 @@
         "lunettes": "oui",
         "chauve": "oui"
       },
-      "5": {
+    {
         "fichier": "./fichier_json/personnages/6.png",
         "prenom": "Léon",
         "genre": "homme",
@@ -52,7 +52,7 @@
         "lunettes": "oui",
         "chauve": "non"
       },
-      "6": {
+    {
         "fichier": "./fichier_json/personnages/7.png",
         "prenom": "Simon",
         "genre": "homme",
@@ -60,7 +60,7 @@
         "lunettes": "oui",
         "chauve": "non"
       },
-      "7": {
+    {
         "fichier": "./fichier_json/personnages/8.png",
         "prenom": "Samuel",
         "genre": "homme",
@@ -68,7 +68,7 @@
         "lunettes": "oui",
         "chauve": "oui"
       },
-      "8": {
+    {
         "fichier": "./fichier_json/personnages/9.png",
         "prenom": "Léon",
         "genre": "homme",
@@ -76,7 +76,7 @@
         "lunettes": "oui",
         "chauve": "non"
       },
-      "9": {
+    {
         "fichier": "./fichier_json/personnages/10.png",
         "prenom": "Simon",
         "genre": "homme",
@@ -84,7 +84,7 @@
         "lunettes": "oui",
         "chauve": "non"
       },
-      "10": {
+      {
         "fichier": "./fichier_json/personnages/11.png",
         "prenom": "Samuel",
         "genre": "homme",
@@ -92,7 +92,7 @@
         "lunettes": "oui",
         "chauve": "oui"
       },
-      "11": {
+      {
         "fichier": "./fichier_json/personnages/12.png",
         "prenom": "Léon",
         "genre": "homme",
@@ -100,7 +100,7 @@
         "lunettes": "oui",
         "chauve": "non"
       },
-      "12": {
+      {
         "fichier": "./fichier_json/personnages/13.png",
         "prenom": "Simon",
         "genre": "homme",
@@ -108,7 +108,7 @@
         "lunettes": "oui",
         "chauve": "non"
       },
-      "13": {
+      {
         "fichier": "./fichier_json/personnages/14.png",
         "prenom": "Samuel",
         "genre": "homme",
@@ -116,7 +116,7 @@
         "lunettes": "oui",
         "chauve": "oui"
       },
-      "14": {
+      {
         "fichier": "./fichier_json/personnages/15.png",
         "prenom": "Léon",
         "genre": "homme",
@@ -124,7 +124,7 @@
         "lunettes": "oui",
         "chauve": "non"
       },
-      "15": {
+      {
         "fichier": "./fichier_json/personnages/16.png",
         "prenom": "Simon",
         "genre": "homme",
@@ -132,7 +132,7 @@
         "lunettes": "oui",
         "chauve": "non"
       },
-      "16": {
+      {
         "fichier": "./fichier_json/personnages/17.png",
         "prenom": "Samuel",
         "genre": "homme",
@@ -140,7 +140,7 @@
         "lunettes": "oui",
         "chauve": "oui"
       },
-      "17": {
+      {
         "fichier": "./fichier_json/personnages/18.png",
         "prenom": "Léon",
         "genre": "homme",
@@ -148,7 +148,7 @@
         "lunettes": "oui",
         "chauve": "non"
       },
-      "18": {
+      {
         "fichier": "./fichier_json/personnages/19.png",
         "prenom": "Simon",
         "genre": "homme",
@@ -156,7 +156,7 @@
         "lunettes": "oui",
         "chauve": "non"
       },
-      "19": {
+      {
         "fichier": "./fichier_json/personnages/20.png",
         "prenom": "Samuel",
         "genre": "homme",
@@ -164,7 +164,7 @@
         "lunettes": "oui",
         "chauve": "oui"
       },
-      "20": {
+      {
         "fichier": "./fichier_json/personnages/21.png",
         "prenom": "Léon",
         "genre": "homme",
@@ -172,7 +172,7 @@
         "lunettes": "oui",
         "chauve": "non"
       },
-      "21": {
+      {
         "fichier": "./fichier_json/personnages/22.png",
         "prenom": "Simon",
         "genre": "homme",
@@ -180,7 +180,7 @@
         "lunettes": "oui",
         "chauve": "non"
       },
-      "22": {
+      {
         "fichier": "./fichier_json/personnages/23.png",
         "prenom": "Samuel",
         "genre": "homme",
@@ -188,7 +188,7 @@
         "lunettes": "oui",
         "chauve": "oui"
       },
-      "23": {
+      {
         "fichier": "./fichier_json/personnages/24.png",
         "prenom": "Léon",
         "genre": "homme",
@@ -196,6 +196,6 @@
         "lunettes": "oui",
         "chauve": "non"
       }
-    }
+    ]
   }
 ]
