@@ -7,7 +7,7 @@ const Countries = () => {
 
   useEffect(() => {
     axios
-      .get("fichier_json/data.json")
+      .get("data.json")
       .then((res) => setData(res.data[0].possibilites));
   }, []);
 
