@@ -5,7 +5,7 @@
     "colonne": "8",
     "possibilites": {
       "0": {
-        "fichier": "./fichier_json/personnages/1.png",
+        "fichier": "https://zupimages.net/viewer.php?id=22/04/tfzy.png",
         "prenom": "Samuel",
         "genre": "homme",
         "cheveux": "blanc",
