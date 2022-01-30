@@ -5,7 +5,7 @@
     "colonne": "8",
     "possibilites": [
        {
-        "fichier": "./fichier_json/personnages/1.png",
+        "fichier": "./personnages/1.png",
         "prenom": "Samuel",
         "genre": "homme",
         "cheveux": "blanc",
@@ -13,7 +13,7 @@
         "chauve": "oui"
       },
     {
-        "fichier": "./fichier_json/personnages/2.png",
+        "fichier": "./personnages/2.png",
         "prenom": "Léon",
         "genre": "homme",
         "cheveux": "blond",
@@ -21,7 +21,7 @@
         "chauve": "non"
       },
     {
-        "fichier": "./fichier_json/personnages/3.png",
+        "fichier": "./personnages/3.png",
         "prenom": "Simon",
         "genre": "homme",
         "cheveux": "blanc",
@@ -29,7 +29,7 @@
         "chauve": "non"
       },
     {
-        "fichier": "./fichier_json/personnages/4.png",
+        "fichier": "./personnages/4.png",
         "prenom": "Simon",
         "genre": "homme",
         "cheveux": "blanc",
@@ -37,7 +37,7 @@
         "chauve": "non"
       },
     {
-        "fichier": "./fichier_json/personnages/5.png",
+        "fichier": "./personnages/5.png",
         "prenom": "Samuel",
         "genre": "homme",
         "cheveux": "blanc",
@@ -45,7 +45,7 @@
         "chauve": "oui"
       },
     {
-        "fichier": "./fichier_json/personnages/6.png",
+        "fichier": "./personnages/6.png",
         "prenom": "Léon",
         "genre": "homme",
         "cheveux": "blond",
@@ -53,7 +53,7 @@
         "chauve": "non"
       },
     {
-        "fichier": "./fichier_json/personnages/7.png",
+        "fichier": "./personnages/7.png",
         "prenom": "Simon",
         "genre": "homme",
         "cheveux": "blanc",
@@ -61,7 +61,7 @@
         "chauve": "non"
       },
     {
-        "fichier": "./fichier_json/personnages/8.png",
+        "fichier": "./personnages/8.png",
         "prenom": "Samuel",
         "genre": "homme",
         "cheveux": "blanc",
@@ -69,7 +69,7 @@
         "chauve": "oui"
       },
     {
-        "fichier": "./fichier_json/personnages/9.png",
+        "fichier": "./personnages/9.png",
         "prenom": "Léon",
         "genre": "homme",
         "cheveux": "blond",
@@ -77,7 +77,7 @@
         "chauve": "non"
       },
     {
-        "fichier": "./fichier_json/personnages/10.png",
+        "fichier": "./personnages/10.png",
         "prenom": "Simon",
         "genre": "homme",
         "cheveux": "blanc",
@@ -85,7 +85,7 @@
         "chauve": "non"
       },
       {
-        "fichier": "./fichier_json/personnages/11.png",
+        "fichier": "./personnages/11.png",
         "prenom": "Samuel",
         "genre": "homme",
         "cheveux": "blanc",
@@ -93,7 +93,7 @@
         "chauve": "oui"
       },
       {
-        "fichier": "./fichier_json/personnages/12.png",
+        "fichier": "./personnages/12.png",
         "prenom": "Léon",
         "genre": "homme",
         "cheveux": "blond",
@@ -101,7 +101,7 @@
         "chauve": "non"
       },
       {
-        "fichier": "./fichier_json/personnages/13.png",
+        "fichier": "./personnages/13.png",
         "prenom": "Simon",
         "genre": "homme",
         "cheveux": "blanc",
@@ -109,7 +109,7 @@
         "chauve": "non"
       },
       {
-        "fichier": "./fichier_json/personnages/14.png",
+        "fichier": "./personnages/14.png",
         "prenom": "Samuel",
         "genre": "homme",
         "cheveux": "blanc",
@@ -117,7 +117,7 @@
         "chauve": "oui"
       },
       {
-        "fichier": "./fichier_json/personnages/15.png",
+        "fichier": "./personnages/15.png",
         "prenom": "Léon",
         "genre": "homme",
         "cheveux": "blond",
@@ -125,7 +125,7 @@
         "chauve": "non"
       },
       {
-        "fichier": "./fichier_json/personnages/16.png",
+        "fichier": "./personnages/16.png",
         "prenom": "Simon",
         "genre": "homme",
         "cheveux": "blanc",
@@ -133,7 +133,7 @@
         "chauve": "non"
       },
       {
-        "fichier": "./fichier_json/personnages/17.png",
+        "fichier": "./personnages/17.png",
         "prenom": "Samuel",
         "genre": "homme",
         "cheveux": "blanc",
@@ -141,7 +141,7 @@
         "chauve": "oui"
       },
       {
-        "fichier": "./fichier_json/personnages/18.png",
+        "fichier": "./personnages/18.png",
         "prenom": "Léon",
         "genre": "homme",
         "cheveux": "blond",
@@ -149,7 +149,7 @@
         "chauve": "non"
       },
       {
-        "fichier": "./fichier_json/personnages/19.png",
+        "fichier": "./personnages/19.png",
         "prenom": "Simon",
         "genre": "homme",
         "cheveux": "blanc",
@@ -157,7 +157,7 @@
         "chauve": "non"
       },
       {
-        "fichier": "./fichier_json/personnages/20.png",
+        "fichier": "./personnages/20.png",
         "prenom": "Samuel",
         "genre": "homme",
         "cheveux": "blanc",
@@ -165,7 +165,7 @@
         "chauve": "oui"
       },
       {
-        "fichier": "./fichier_json/personnages/21.png",
+        "fichier": "./personnages/21.png",
         "prenom": "Léon",
         "genre": "homme",
         "cheveux": "blond",
@@ -173,7 +173,7 @@
         "chauve": "non"
       },
       {
-        "fichier": "./fichier_json/personnages/22.png",
+        "fichier": "./personnages/22.png",
         "prenom": "Simon",
         "genre": "homme",
         "cheveux": "blanc",
@@ -181,7 +181,7 @@
         "chauve": "non"
       },
       {
-        "fichier": "./fichier_json/personnages/23.png",
+        "fichier": "./personnages/23.png",
         "prenom": "Samuel",
         "genre": "homme",
         "cheveux": "blanc",
@@ -189,7 +189,7 @@
         "chauve": "oui"
       },
       {
-        "fichier": "./fichier_json/personnages/24.png",
+        "fichier": "./personnages/24.png",
         "prenom": "Léon",
         "genre": "homme",
         "cheveux": "blond",
