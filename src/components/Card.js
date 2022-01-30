@@ -9,7 +9,7 @@ const Card = ({ personnage }) => {
             <img src={personnage.fichier} alt={personnage.prenom} />
           </div>
           <div className="flip-box-back">
-            <img src="./fichier_json/personnages/croix.png" alt="croix" id="croix" width="100" height="100" />
+            <img src="personnages/croix.png" alt="croix" id="croix" width="100" height="100" />
           </div>
         </div>
       </div>
