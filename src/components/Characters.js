@@ -7,7 +7,7 @@ const Characters = () => {
 
   useEffect(() => {
     axios
-      .get("./data.json")
+      .get("./fichier_json/data.json")
       .then((res) => setData(res.data[0].possibilites));
   }, []);
 
