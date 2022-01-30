@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import axios from "axios";
 import Card from "./Card";
 
-const Countries = () => {
+const Characters = () => {
   const [data, setData] = useState([]);
 
   useEffect(() => {
@@ -16,7 +16,7 @@ const Countries = () => {
   //   .then(data => console.log(data))
 
   return (
-    <div className="countries">
+    <div className="characters">
       <div>
         {data.map((personnage) => (
           // console.log(personnages)
@@ -27,4 +27,4 @@ const Countries = () => {
   );
 };
 
-export default Countries;
+export default Characters;
