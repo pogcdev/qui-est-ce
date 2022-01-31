@@ -1,14 +1,14 @@
 import React, { useEffect, useState } from "react";
 import axios from "axios";
 import Card from "./Card";
-let docu = require('./fichier_json/data.json');
+//let docu = require('./fichier_json/data.json');
 
 const Characters = () => {
   const [data, setData] = useState([]);
 
   useEffect(() => {
     axios
-      .get(docu)
+      .get(process.env.PUBLIC_URL + `./fichier_json/data.json`)
       .then((res) => setData(res.data[0].possibilites));
   }, []);
 
