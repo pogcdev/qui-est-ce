@@ -8,7 +8,7 @@ const Characters = () => {
 
   useEffect(() => {
     axios
-      .get(process.env.PUBLIC_URL + `./fichier_json/data.json`)
+      .get('./data.json')
       .then((res) => setData(res.data[0].possibilites));
   }, []);
 
